@@ -1,3 +1,6 @@
+# NOTE
+The app wil not work in its current state as its missing a lot of files which were removed since they contained sensitive information.
+
 # Oasis App
 
 Welcome to Oasis App, the one-stop app for all your fest needs! With this app, you can buy tickets to concerts, purchase food from stalls, buy official merchandise, and check the event timings, all from the comfort of your phone.
