@@ -1,5 +1,5 @@
 # NOTE
-The app wil not work in its current state as its missing a lot of files which were removed since they contained sensitive information.
+The app wil not work in its current state as its missing a lot of files which were removed since they contained sensitive information. Also the server has been taken down.
 
 # Fest App
 
